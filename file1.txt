@@ -1,6 +1,7 @@
 This is devops tools
 
 docker 
-python
 kubernetes
-
+ansible 
+jenkins
+aws
